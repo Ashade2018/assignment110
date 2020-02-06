@@ -1,0 +1,18 @@
+Front end: This is a track or field in web development that deals with the 
+computer and user interface. how colors, text and what-not interact for the user's viewing pleasure.
+Back-end: This is the field where all data is stored after being inputed 
+by the user. It makes a website function after designing.
+Full Stack: This field consists of a trained developer who has the 
+ability to work both at the front-end and the back end track.
+Digital Marketing: It is a marketing effort used to push one's business socially via an electronic device.
+
+
+q2. Tools used by :
+1. front-end: text editor, browser
+2. back end: ide, compiler, developer tools
+3. full-stack: combination of 1 and 2.
+4. digital marketing: social media, content creators, etc.
+
+q3. Difference between UI and UX
+ UI means user interface while UX means  User Experience.
+ UI gives us a representative of what your application looks like on a phone or any device. while UX
